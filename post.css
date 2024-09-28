@@ -1,0 +1,88 @@
+.error {
+    color: red;
+  }
+  
+  .success {
+    color: green;
+  }
+  
+body {
+    background-color: black;
+}
+
+.box1 {
+    background-color: white;
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+
+}
+#text{
+ color: green;
+}
+
+.box-1 {
+    background-color: white;
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    margin-right: 30px;
+
+}
+
+.form1 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.heading-1>h1 {
+    color: white;
+}
+
+.heading-2>h1 {
+    color: white;
+}
+
+.heading-1>h2 {
+    color: darkcyan;
+    margin-bottom: 0px;
+}
+
+.heading-2>h2 {
+    color: darkcyan;
+    margin-bottom: 0px;
+}
+
+.Main-head {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-top: 150px;
+
+}
+
+.heading-1 {
+    text-align: left;
+    margin-right: 100px;
+    margin-left: 16px;
+
+}
+
+.heading-2 {
+    text-align: left;
+    margin-right: 140px;
+}
+
+p {
+    color: red;
+}
+
+button {
+    background-color: white;
+    text-align: center;
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+
+}
